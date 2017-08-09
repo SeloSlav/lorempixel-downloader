@@ -1,5 +1,5 @@
 # lorempixel-downloader
-A simple script that downloads a bunch of random images from http://lorempixel.com/ to a folder.
+A simple script that downloads a bunch of random ~~images~~ kittens from http://lorempixel.com/ to a folder.
 
 ![Kittens](https://github.com/santafebound/lorempixel-downloader/blob/master/cats.jpg)
 
