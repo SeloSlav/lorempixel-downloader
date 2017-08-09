@@ -5,7 +5,7 @@ A simple script that downloads a bunch of random ~~images~~ kittens from http://
 
 ## I Can Haz 400 Kittens!?
 
-Yes, you can haz! Just open this script in your favorite IDE (Eclipse, IntelliJ, etc.), configure the properties file to your liking, and download away! Just make sure you read the license (https://github.com/santafebound/lorempixel-downloader/blob/master/LICENSE) before abusing the shit out of this script because the guys at FelixHoller.com might get irritated.
+Yes, you can haz! Just open this script in your favorite IDE (Eclipse, IntelliJ, etc.), configure the properties file to your liking, and download away! Just make sure you read the license (https://github.com/santafebound/lorempixel-downloader/blob/master/LICENSE) before abusing the meow out of this script because the guys at FelixHoller.com might get irritated.
 
 ## config.properties
 
