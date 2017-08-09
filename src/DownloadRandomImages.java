@@ -48,7 +48,6 @@ public class DownloadRandomImages {
 
     private static void downloadImages(String download_path, String width, String height, int num_images, String category) {
 
-
         for (int i = 0; i < num_images; i++) {
 
             CallURL callURL = new CallURL(width, height).invoke();
